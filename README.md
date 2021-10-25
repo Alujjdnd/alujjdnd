@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Web Development**
 
-- 👨‍💻 All of my projects are available [down below!](down below!)
+- 👨‍💻 All of my projects are available down below!
 
 - 📝 I regularly write articles on [https://www.jiuyu.me/](https://www.jiuyu.me/)
 
