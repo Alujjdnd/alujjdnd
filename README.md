@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jiuyu Zhang</h1>
 <h3 align="center">A passionate student interested in computer science and electrical and electronic engineering.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alujjdnd" alt="alujjdnd" /></a> </p>
-
 - 🔭 I’m currently working on **my HSC (high school leaving qualification)**
 
 - 🌱 I’m currently learning **Python, Web Development**
@@ -21,8 +19,8 @@
 <p align="left">
 <a href="https://codepen.io/alujjdnd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alujjdnd1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jiuyu-zhang-4b135a208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiuyu-zhang-4b135a208" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/alujjdnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alujjdnd" height="30" width="40" /></a>
-<a href="https://medium.com/@alujjdnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alujjdnd" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11450477/alujjdnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alujjdnd" height="30" width="40" /></a>
+<a href="https://medium.com/@jiuyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jiuyu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
