@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jiuyu Zhang</h1>
 <h3 align="center">A passionate student interested in computer science and electrical and electronic engineering.</h3>
 
-- 🔭 I’m currently working on **my HSC (high school leaving qualification)**
+- 🔭 I’ve just finished **my HSC (high school leaving qualification)**
 
 - 🌱 I’m currently learning **Python, Web Development**
 
