@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jiuyu Zhang</h1>
 <h3 align="center">A passionate student interested in computer science and electrical and electronic engineering.</h3>
 
-- 🔭 I’m currently studying at University College London, pursuing an MEng in Computer Science
+- 🔭 I’m currently studying at **University College London**, pursuing an *MEng in Computer Science*
 
 - 🌱 I’m currently learning **Python, Web Development**
 
