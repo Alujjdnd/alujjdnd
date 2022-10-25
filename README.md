@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jiuyu Zhang</h1>
 <h3 align="center">A passionate student interested in computer science and electrical and electronic engineering.</h3>
 
-- 🔭 I’ve just finished **my HSC (high school leaving qualification)**
+- 🔭 I’m currently studying at University College London, pursuing an MEng in Computer Science
 
 - 🌱 I’m currently learning **Python, Web Development**
 
@@ -12,8 +12,6 @@
 - 💬 Ask me about **Python, DevOps and System Management**
 
 - 📫 How to reach me **me@jiuyu.me**
-
-- ⚡ Fun fact **I prefer tabs over spaces (😯!)**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
