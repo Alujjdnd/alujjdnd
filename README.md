@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jiuyu Zhang</h1>
-<h3 align="center">A passionate student interested in computer science and electrical and electronic engineering.</h3>
+<h3 align="center">A passionate student interested in quantitative finance, mathematical modelling, and software and systems engineering.</h3>
 
-- 🔭 I’m currently studying at **University College London**, pursuing an *MEng in Computer Science*
+- 🔭 I’m currently studying at **University College London**, pursuing an *BSc in Computer Science* on track for a First-Class Honours
 
-- 🌱 I’m currently learning **Python, Web Development**
+- 🌱 I’m currently learning **the q language for KDB+**
 
-- 👨‍💻 All of my projects are available down below!
-
-- 📝 I regularly write articles on [https://blog.jiuyu.me/](https://blog.jiuyu.me/)
-
-- 💬 Ask me about **Python, DevOps and System Management**
+- 👨‍💻 Check out my project **[Ngrok-LAN](https://github.com/Alujjdnd/Ngrok-LAN)**
 
 - 📫 How to reach me **me@jiuyu.me**
 
